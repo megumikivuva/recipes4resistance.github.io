@@ -38,7 +38,8 @@ Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sc
 
 ### Guest Host: Gayithri Jayathirtha
 
-### Guest Host: Megumi Kivuva
+### Guest Host: [Megumi Kivuva](https://megumikivuva.github.io/)
+I am interested in broadening participation in computing through creating inclusive education enviorments. I specifically work with Black students and refugees where I aim to understand the barriers to accessing computing education and interventions to make computing education more accessible to these communities.
 
 ### Guest Host: Minji Kong
 
